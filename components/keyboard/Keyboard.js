@@ -20,10 +20,8 @@ export default class Keyboard {
     const error = new Error('not correct structure of keyboard template');
     const firstLanguageIndex = 0;
 
-    if (this._possibleLanguages) {
-      return this._possibleLanguages.filter(language => !language.includes('-upper'))[firstLanguageIndex];
-    }
-    
-    throw error;
+    if (!this._possibleLanguages) throw error;
+
+    return this._possibleLanguages.filter(language => !language.includes('upper'))[firstLanguageIndex];
   }
 }

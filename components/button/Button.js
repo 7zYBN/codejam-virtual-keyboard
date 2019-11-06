@@ -7,6 +7,15 @@ export default class Button {
     this._button = this._createButton();
   }
 
+  changeButtonValue(newKey) {
+    this._button.innerHTML = newKey;
+    this._button.setAttribute('data-key', newKey);
+  }
+
+  setUpperCase() {
+    this._button.classList.add('clicked');
+  }
+
   _createButton() {
     const button = document.createElement('div');
 

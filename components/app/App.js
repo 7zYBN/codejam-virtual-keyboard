@@ -1,7 +1,7 @@
 import Keyboard from '../keyboard/Keyboard';
 import KeyboardTemplate from '../../data/BUTTONS';
 
-export default class Slon {
+export default class App {
   constructor() {
     this._textArea = null;
 

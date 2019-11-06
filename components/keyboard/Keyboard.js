@@ -1,4 +1,4 @@
-import Button from '../button/Button';
+import Button from '../button/Button.js';
 
 export default class Keyboard {
   constructor(parent, template) {

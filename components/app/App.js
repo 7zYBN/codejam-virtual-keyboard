@@ -1,5 +1,5 @@
-import Keyboard from '../keyboard/Keyboard';
-import KeyboardTemplate from '../../data/BUTTONS';
+import Keyboard from '../keyboard/Keyboard.js';
+import KeyboardTemplate from '../../data/BUTTONS.js';
 
 export default class App {
   constructor() {

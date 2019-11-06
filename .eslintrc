@@ -2,7 +2,10 @@
   "extends": ["airbnb/base"],
 
   "rules": {        
-    "no-underscore-dangle": "off"
+    "no-underscore-dangle": "off",
+    "import/extensions": ["error", "ignorePackages", {
+      "js": "off"
+    }]
   },
 
   "env": {
@@ -10,5 +13,4 @@
     "node": true,
     "es6": true
   }
- 
 }

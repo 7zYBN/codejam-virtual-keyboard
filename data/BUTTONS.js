@@ -5,8 +5,8 @@ const BUTTONS = [
         RU: 'ё',
         US: '`',
         'RU-upper': 'Ё',
-        'US-upper': '~'
-      }
+        'US-upper': '~',
+      },
     },
 
     {
@@ -14,8 +14,8 @@ const BUTTONS = [
         RU: '1',
         US: '1',
         'RU-upper': '!',
-        'US-upper': '!'
-      }
+        'US-upper': '!',
+      },
     },
 
     {
@@ -23,8 +23,8 @@ const BUTTONS = [
         RU: '2',
         US: '2',
         'RU-upper': '"',
-        'US-upper': '@'
-      }
+        'US-upper': '@',
+      },
     },
 
     {
@@ -32,8 +32,8 @@ const BUTTONS = [
         RU: '3',
         US: '3',
         'RU-upper': '№',
-        'US-upper': '#'
-      }
+        'US-upper': '#',
+      },
     },
 
     {
@@ -41,8 +41,8 @@ const BUTTONS = [
         RU: '4',
         US: '4',
         'RU-upper': ';',
-        'US-upper': '$'
-      }
+        'US-upper': '$',
+      },
     },
 
     {
@@ -50,8 +50,8 @@ const BUTTONS = [
         RU: '5',
         US: '5',
         'RU-upper': '%',
-        'US-upper': '%'
-      }
+        'US-upper': '%',
+      },
     },
 
     {
@@ -59,8 +59,8 @@ const BUTTONS = [
         RU: '6',
         US: '6',
         'RU-upper': ':',
-        'US-upper': '^'
-      }
+        'US-upper': '^',
+      },
     },
 
     {
@@ -68,8 +68,8 @@ const BUTTONS = [
         RU: '7',
         US: '7',
         'RU-upper': '?',
-        'US-upper': '&'
-      }
+        'US-upper': '&',
+      },
     },
 
     {
@@ -77,8 +77,8 @@ const BUTTONS = [
         RU: '8',
         US: '8',
         'RU-upper': '*',
-        'US-upper': '*'
-      }
+        'US-upper': '*',
+      },
     },
 
     {
@@ -86,8 +86,8 @@ const BUTTONS = [
         RU: '9',
         US: '9',
         'RU-upper': '(',
-        'US-upper': '('
-      }
+        'US-upper': '(',
+      },
     },
 
     {
@@ -95,8 +95,8 @@ const BUTTONS = [
         RU: '0',
         US: '0',
         'RU-upper': ')',
-        'US-upper': ')'
-      }
+        'US-upper': ')',
+      },
     },
 
     {
@@ -104,8 +104,8 @@ const BUTTONS = [
         RU: '-',
         US: '-',
         'RU-upper': '_',
-        'US-upper': '_'
-      }
+        'US-upper': '_',
+      },
     },
 
     {
@@ -113,8 +113,8 @@ const BUTTONS = [
         RU: '=',
         US: '=',
         'RU-upper': '+',
-        'US-upper': '+'
-      }
+        'US-upper': '+',
+      },
     },
 
     {
@@ -122,28 +122,28 @@ const BUTTONS = [
         RU: 'Backspace',
         US: 'Backspace',
         'RU-upper': 'Backspace',
-        'US-upper': 'Backspace'
-      }
+        'US-upper': 'Backspace',
+      },
     },
   ],
-  
+
   [
     {
       Tab: {
         RU: 'Tab',
         US: 'Tab',
         'RU-upper': 'Tab',
-        'US-upper': 'Tab'
-      }
+        'US-upper': 'Tab',
+      },
     },
 
     {
-    KeyQ: {
-      RU: 'й',
-      US: 'q',
-      'RU-upper': 'Й',
-      'US-upper': 'Q'
-    }
+      KeyQ: {
+        RU: 'й',
+        US: 'q',
+        'RU-upper': 'Й',
+        'US-upper': 'Q',
+      },
     },
 
     {
@@ -151,8 +151,8 @@ const BUTTONS = [
         RU: 'ц',
         US: 'w',
         'RU-upper': 'Ц',
-        'US-upper': 'W'
-      }
+        'US-upper': 'W',
+      },
     },
 
     {
@@ -160,8 +160,8 @@ const BUTTONS = [
         RU: 'у',
         US: 'e',
         'RU-upper': 'У',
-        'US-upper': 'E'
-      }
+        'US-upper': 'E',
+      },
     },
 
     {
@@ -169,8 +169,8 @@ const BUTTONS = [
         RU: 'к',
         US: 'r',
         'RU-upper': 'К',
-        'US-upper': 'R'
-      }
+        'US-upper': 'R',
+      },
     },
 
     {
@@ -178,8 +178,8 @@ const BUTTONS = [
         RU: 'е',
         US: 't',
         'RU-upper': 'Е',
-        'US-upper': 'T'
-      }
+        'US-upper': 'T',
+      },
     },
 
     {
@@ -187,8 +187,8 @@ const BUTTONS = [
         RU: 'н',
         US: 'y',
         'RU-upper': 'Н',
-        'US-upper': 'Y'
-      }
+        'US-upper': 'Y',
+      },
     },
 
     {
@@ -196,8 +196,8 @@ const BUTTONS = [
         RU: 'г',
         US: 'u',
         'RU-upper': 'Г',
-        'US-upper': 'U'
-      }
+        'US-upper': 'U',
+      },
     },
 
     {
@@ -205,8 +205,8 @@ const BUTTONS = [
         RU: 'ш',
         US: 'i',
         'RU-upper': 'Ш',
-        'US-upper': 'I'
-      }
+        'US-upper': 'I',
+      },
     },
 
     {
@@ -214,8 +214,8 @@ const BUTTONS = [
         RU: 'щ',
         US: 'o',
         'RU-upper': 'Щ',
-        'US-upper': 'O'
-      }
+        'US-upper': 'O',
+      },
     },
 
     {
@@ -223,8 +223,8 @@ const BUTTONS = [
         RU: 'з',
         US: 'p',
         'RU-upper': 'З',
-        'US-upper': 'P'
-      }
+        'US-upper': 'P',
+      },
     },
 
     {
@@ -232,8 +232,8 @@ const BUTTONS = [
         RU: 'х',
         US: '[',
         'RU-upper': 'Х',
-        'US-upper': '{'
-      }
+        'US-upper': '{',
+      },
     },
 
     {
@@ -241,8 +241,8 @@ const BUTTONS = [
         RU: 'ъ',
         US: ']',
         'RU-upper': 'Ъ',
-        'US-upper': '}'
-      }
+        'US-upper': '}',
+      },
     },
   ],
 
@@ -252,8 +252,8 @@ const BUTTONS = [
         RU: 'CapsLock',
         US: 'CapsLock',
         'RU-upper': 'CapsLock',
-        'US-upper': 'CapsLock'
-      }
+        'US-upper': 'CapsLock',
+      },
     },
 
     {
@@ -261,8 +261,8 @@ const BUTTONS = [
         RU: 'ф',
         US: 'a',
         'RU-upper': 'Ф',
-        'US-upper': 'A'
-      }
+        'US-upper': 'A',
+      },
     },
 
     {
@@ -270,8 +270,8 @@ const BUTTONS = [
         RU: 'ы',
         US: 's',
         'RU-upper': 'Ы',
-        'US-upper': 'S'
-      }
+        'US-upper': 'S',
+      },
     },
 
     {
@@ -279,8 +279,8 @@ const BUTTONS = [
         RU: 'в',
         US: 'd',
         'RU-upper': 'В',
-        'US-upper': 'D'
-      }
+        'US-upper': 'D',
+      },
     },
 
     {
@@ -288,8 +288,8 @@ const BUTTONS = [
         RU: 'а',
         US: 'f',
         'RU-upper': 'А',
-        'US-upper': 'F'
-      }
+        'US-upper': 'F',
+      },
     },
 
     {
@@ -297,8 +297,8 @@ const BUTTONS = [
         RU: 'п',
         US: 'g',
         'RU-upper': 'П',
-        'US-upper': 'G'
-      }
+        'US-upper': 'G',
+      },
     },
 
     {
@@ -306,8 +306,8 @@ const BUTTONS = [
         RU: 'р',
         US: 'h',
         'RU-upper': 'Р',
-        'US-upper': 'H'
-      }
+        'US-upper': 'H',
+      },
     },
 
     {
@@ -315,17 +315,17 @@ const BUTTONS = [
         RU: 'о',
         US: 'j',
         'RU-upper': 'О',
-        'US-upper': 'J'
-      }
+        'US-upper': 'J',
+      },
     },
-    
+
     {
       KeyK: {
         RU: 'л',
         US: 'k',
         'RU-upper': 'Л',
-        'US-upper': 'K'
-      }
+        'US-upper': 'K',
+      },
     },
 
     {
@@ -333,8 +333,8 @@ const BUTTONS = [
         RU: 'д',
         US: 'l',
         'RU-upper': 'Д',
-        'US-upper': 'L'
-      }
+        'US-upper': 'L',
+      },
     },
 
     {
@@ -342,8 +342,8 @@ const BUTTONS = [
         RU: 'ж',
         US: ';',
         'RU-upper': 'Ж',
-        'US-upper': ':'
-      }
+        'US-upper': ':',
+      },
     },
 
     {
@@ -351,8 +351,8 @@ const BUTTONS = [
         RU: 'э',
         US: "'",
         'RU-upper': 'Э',
-        'US-upper': '"'
-      }
+        'US-upper': '"',
+      },
     },
 
     {
@@ -360,9 +360,9 @@ const BUTTONS = [
         RU: 'Enter',
         US: 'Enter',
         'RU-upper': 'Enter',
-        'US-upper': 'Enter'
-      }
-    }
+        'US-upper': 'Enter',
+      },
+    },
   ],
 
   [
@@ -371,17 +371,17 @@ const BUTTONS = [
         RU: 'Shift',
         US: 'Shift',
         'RU-upper': 'Shift',
-        'US-upper': 'Shift'
-      }
+        'US-upper': 'Shift',
+      },
     },
 
     {
-    KeyZ: {
-      RU: 'я',
-      US: 'z',
-      'RU-upper': 'Я',
-      'US-upper': 'Z'
-    }
+      KeyZ: {
+        RU: 'я',
+        US: 'z',
+        'RU-upper': 'Я',
+        'US-upper': 'Z',
+      },
     },
 
     {
@@ -389,8 +389,8 @@ const BUTTONS = [
         RU: 'ч',
         US: 'x',
         'RU-upper': 'Ч',
-        'US-upper': 'X'
-      }
+        'US-upper': 'X',
+      },
     },
 
     {
@@ -398,8 +398,8 @@ const BUTTONS = [
         RU: 'с',
         US: 'c',
         'RU-upper': 'С',
-        'US-upper': 'C'
-      }
+        'US-upper': 'C',
+      },
     },
 
     {
@@ -407,8 +407,8 @@ const BUTTONS = [
         RU: 'м',
         US: 'v',
         'RU-upper': 'М',
-        'US-upper': 'V'
-      }
+        'US-upper': 'V',
+      },
     },
 
     {
@@ -416,8 +416,8 @@ const BUTTONS = [
         RU: 'и',
         US: 'b',
         'RU-upper': 'И',
-        'US-upper': 'B'
-      }
+        'US-upper': 'B',
+      },
     },
 
     {
@@ -425,8 +425,8 @@ const BUTTONS = [
         RU: 'т',
         US: 'n',
         'RU-upper': 'Т',
-        'US-upper': 'N'
-      }
+        'US-upper': 'N',
+      },
     },
 
     {
@@ -434,17 +434,17 @@ const BUTTONS = [
         RU: 'ь',
         US: 'm',
         'RU-upper': 'Ь',
-        'US-upper': 'M'
-      }
+        'US-upper': 'M',
+      },
     },
-    
+
     {
       Comma: {
         RU: 'б',
         US: ',',
         'RU-upper': 'Б',
-        'US-upper': '<'
-      }
+        'US-upper': '<',
+      },
     },
 
     {
@@ -452,8 +452,8 @@ const BUTTONS = [
         RU: 'ю',
         US: '.',
         'RU-upper': 'Ю',
-        'US-upper': '>'
-      }
+        'US-upper': '>',
+      },
     },
 
     {
@@ -461,8 +461,8 @@ const BUTTONS = [
         RU: '.',
         US: '/',
         'RU-upper': ',',
-        'US-upper': '?'
-      }
+        'US-upper': '?',
+      },
     },
 
     {
@@ -470,9 +470,9 @@ const BUTTONS = [
         RU: 'Shift',
         US: 'Shift',
         'RU-upper': 'Shift',
-        'US-upper': 'Shift'
-      }
-    }
+        'US-upper': 'Shift',
+      },
+    },
   ],
 
   [
@@ -481,8 +481,8 @@ const BUTTONS = [
         RU: 'Control',
         US: 'Control',
         'RU-upper': 'Control',
-        'US-upper': 'Control'
-      }
+        'US-upper': 'Control',
+      },
     },
 
     {
@@ -490,8 +490,8 @@ const BUTTONS = [
         RU: 'Meta',
         US: 'Meta',
         'RU-upper': 'Meta',
-        'US-upper': 'Meta'
-      }
+        'US-upper': 'Meta',
+      },
     },
 
     {
@@ -499,8 +499,8 @@ const BUTTONS = [
         RU: 'Alt',
         US: 'Alt',
         'RU-upper': 'Alt',
-        'US-upper': 'Alt'
-      }
+        'US-upper': 'Alt',
+      },
     },
 
     {
@@ -508,8 +508,8 @@ const BUTTONS = [
         RU: ' ',
         US: ' ',
         'RU-upper': ' ',
-        'US-upper': ' '
-      }
+        'US-upper': ' ',
+      },
     },
 
     {
@@ -517,8 +517,8 @@ const BUTTONS = [
         RU: 'Alt',
         US: 'Alt',
         'RU-upper': 'Alt',
-        'US-upper': 'Alt'
-      }
+        'US-upper': 'Alt',
+      },
     },
 
     {
@@ -526,10 +526,10 @@ const BUTTONS = [
         RU: 'Control',
         US: 'Control',
         'RU-upper': 'Control',
-        'US-upper': 'Control'
-      }
-    }
-  ]
+        'US-upper': 'Control',
+      },
+    },
+  ],
 ];
 
 export default BUTTONS;

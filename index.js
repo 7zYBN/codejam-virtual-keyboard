@@ -1,3 +1,5 @@
-import App from './components/app/App.js';
+import App from './components/app/App';
 
-new App();
+const app = new App();
+
+app.buildApplication();

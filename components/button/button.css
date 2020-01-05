@@ -1,0 +1,15 @@
+.button {
+  background-color: black;
+  color: white;
+  width: auto;
+  height: auto;
+  margin: 1px;
+  padding: 20px;
+  cursor: pointer;
+  transition: .1s;
+}
+
+.button.clicked {
+  background-color: red;
+  border-radius: 50%;
+}

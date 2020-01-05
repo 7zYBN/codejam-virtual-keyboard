@@ -1,0 +1,14 @@
+.keyboard-wrapper {
+  width: 850px;
+  height: 300px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin: auto;
+}
+
+[class*="keyboard-row"] {
+  display: flex;
+  justify-content: space-between;
+}
